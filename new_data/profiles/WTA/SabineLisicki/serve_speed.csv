@@ -1,0 +1,22 @@
+Match,Result,Avg Speed,1st Avg,1st StDev,1st T Avg,1st Wide Avg,Max 1st,Min 1st,2nd Avg,2nd StDev,2nd T Avg,2nd Wide Avg,Max 2nd,Min 2nd
+2016 Wimbledon R128,W vs Rogers,96.3,105.5,11.1,106.0,111.3,122,79,83.9,8.1,79.0,84.8,103,69
+2016 Australian Open R64,L vs Allertova,92.6,97.1,10.1,,,115,70,82.8,7.9,,,97,65
+2016 Australian Open R128,W vs Cetkovska,94.9,103.9,7.1,,,117,90,80.5,8.2,,,93,66
+2015 US Open R16,L vs Halep,88.2,95.2,12.8,,,120,72,77.6,8.9,,,96,62
+2015 US Open R32,W vs Strycova,93.0,105.9,12.0,,,122,77,79.8,9.1,,,100,64
+2015 US Open R64,W vs Giorgi,101.1,105.7,9.9,,,125,89,90.5,5.7,,,102,81
+2015 Wimbledon R32,L vs Bacsinszky,95.6,106.2,9.4,,,123,78,80.8,6.7,,,94,64
+2015 Wimbledon R64,W vs Mchale,97.5,106.3,9.7,,,122,75,79.9,8.8,,,102,61
+2015 Roland Garros R32,L vs Safarova,98.2,105.2,9.6,,,122,83,87.0,6.2,,,99,69
+2015 Roland Garros R64,W vs Saville,98.1,106.6,7.7,,,119,92,74.8,7.8,,,86,67
+2015 Australian Open R128,L vs Mladenovic,91.4,98.5,10.9,,,116,73,75.2,5.2,,,87,65
+2014 US Open R32,L vs Sharapova,89.2,95.1,11.0,,,123,77,73.1,6.2,,,88,63
+2014 US Open R64,W vs Brengle,92.3,106.2,12.1,,,124,84,76.2,6.7,,,91,62
+2014 US Open R128,W vs Abanda,91.5,99.9,10.5,,,119,78,77.7,7.8,,,93,64
+2014 Wimbledon QF,L vs Halep,90.9,103.5,9.1,,,116,86,76.0,7.9,,,95,61
+2014 Wimbledon R16,W vs Shvedova,89.2,93.7,13.5,,,122,62,74.9,10.5,,,101,60
+2014 Wimbledon R32,W vs Ivanovic,95.9,105.0,9.9,,,120,83,81.3,9.2,,,100,65
+2014 Wimbledon R64,W vs Pliskova,95.0,105.5,8.6,,,117,89,82.7,10.3,,,109,64
+2014 Wimbledon R128,W vs Glushko,93.7,104.7,10.6,,,122,77,78.6,8.9,,,96,63
+2014 Roland Garros R64,L vs Barthel,80.2,89.1,11.7,,,104,70,74.1,7.4,,,92,64
+Career (53 matches),,95.0,103.2,10.0,106.0,111.3,125,62,79.9,7.9,79.0,84.8,109,60

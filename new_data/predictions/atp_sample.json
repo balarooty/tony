@@ -1,0 +1,123 @@
+{
+  "inputs": {
+    "player1": "Novak Djokovic",
+    "player2": "Carlos Alcaraz",
+    "surface": "Hard",
+    "best_of": 3,
+    "simulations": 2000,
+    "seed": 11
+  },
+  "model_features": {
+    "player1": {
+      "rank": 4.0,
+      "elo": 2100.0,
+      "hold_pct": 0.8740000000000001,
+      "break_pct": 0.249,
+      "spw": 0.6920000000000001,
+      "rpw": 0.384,
+      "recent_dr": 1.5481818181818183
+    },
+    "player2": {
+      "rank": 1.0,
+      "elo": 2272.0,
+      "hold_pct": 0.9009999999999999,
+      "break_pct": 0.295,
+      "spw": 0.6940000000000001,
+      "rpw": 0.41100000000000003,
+      "recent_dr": 1.6108333333333336
+    },
+    "derived": {
+      "p1_hold": 0.7559625690042222,
+      "p2_hold": 0.8738580905034425,
+      "p1_serve_point": 0.6146204545454547,
+      "p2_serve_point": 0.6808795454545454
+    }
+  },
+  "prediction": {
+    "winner": "Carlos Alcaraz",
+    "winner_probabilities": {
+      "Novak Djokovic": 0.198,
+      "Carlos Alcaraz": 0.802
+    },
+    "total_sets_distribution": {
+      "2": 0.601,
+      "3": 0.399
+    },
+    "total_games_distribution": {
+      "12": 0.0005,
+      "13": 0.0005,
+      "14": 0.002,
+      "15": 0.0185,
+      "16": 0.026,
+      "17": 0.065,
+      "18": 0.076,
+      "19": 0.083,
+      "20": 0.0845,
+      "21": 0.0495,
+      "22": 0.0875,
+      "23": 0.0625,
+      "24": 0.013,
+      "25": 0.0305,
+      "26": 0.047,
+      "27": 0.03,
+      "28": 0.036,
+      "29": 0.0385,
+      "30": 0.037,
+      "31": 0.0515,
+      "32": 0.048,
+      "33": 0.029,
+      "34": 0.0235,
+      "35": 0.0305,
+      "36": 0.0175,
+      "37": 0.002,
+      "38": 0.0045,
+      "39": 0.006
+    },
+    "top_total_games": [
+      {
+        "games": 22,
+        "probability": 0.0875
+      },
+      {
+        "games": 20,
+        "probability": 0.0845
+      },
+      {
+        "games": 19,
+        "probability": 0.083
+      },
+      {
+        "games": 18,
+        "probability": 0.076
+      },
+      {
+        "games": 17,
+        "probability": 0.065
+      },
+      {
+        "games": 23,
+        "probability": 0.0625
+      },
+      {
+        "games": 31,
+        "probability": 0.0515
+      },
+      {
+        "games": 21,
+        "probability": 0.0495
+      },
+      {
+        "games": 32,
+        "probability": 0.048
+      },
+      {
+        "games": 26,
+        "probability": 0.047
+      }
+    ],
+    "most_likely_total_sets": 2,
+    "most_likely_total_games": 22,
+    "expected_total_sets": 2.399,
+    "expected_total_games": 24.282
+  }
+}

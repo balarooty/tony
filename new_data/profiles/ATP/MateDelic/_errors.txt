@@ -1,0 +1,2 @@
+Failed to fetch profile page: https://www.tennisabstract.com/cgi-bin/player.cgi?p=MateDelic
+No JS fragment: https://www.tennisabstract.com/jsfrags/MateDelic.js

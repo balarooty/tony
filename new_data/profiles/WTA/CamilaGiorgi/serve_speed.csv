@@ -1,0 +1,22 @@
+Match,Result,Avg Speed,1st Avg,1st StDev,1st T Avg,1st Wide Avg,Max 1st,Min 1st,2nd Avg,2nd StDev,2nd T Avg,2nd Wide Avg,Max 2nd,Min 2nd
+2018 US Open R64,L vs Williams,99.4,106.4,8.6,112.0,105.7,118,87,91.4,4.8,91.0,91.0,100,79
+2018 Wimbledon QF,L vs Williams,105.6,112.3,4.0,112.8,112.2,118,102,96.7,5.2,98.6,96.0,113,88
+2018 Wimbledon R16,W vs Makarova,104.7,109.5,5.7,109.8,107.1,119,91,96.7,6.4,101.0,98.7,107,78
+2018 Wimbledon R32,W vs Siniakova,101.7,105.6,5.5,106.8,102.7,118,91,93.2,4.8,96.5,92.4,103,84
+2017 Wimbledon R32,L vs Ostapenko,103.5,107.0,5.0,108.1,103.5,115,92,96.6,3.4,96.7,97.3,104,91
+2017 Wimbledon R64,W vs Keys,101.1,105.0,4.9,106.9,101.4,114,94,94.3,5.2,95.6,95.6,106,82
+2017 Roland Garros R128,L vs Dodin,98.3,101.3,5.1,,,113,94,94.3,5.7,,,103,85
+2016 US Open R128,L vs Stosur,97.4,100.9,7.9,,,114,82,92.0,7.0,,,103,69
+2016 Wimbledon R128,L vs Muguruza,101.5,105.2,4.8,106.5,104.9,114,91,95.4,4.1,95.3,98.4,104,87
+2016 Roland Garros R128,W vs Lim,96.0,100.2,6.4,,,111,82,87.5,7.1,,,96,72
+2016 Australian Open R128,L vs Williams,103.1,108.5,6.9,,,118,88,97.1,4.2,,,106,92
+2015 US Open R64,L vs Lisicki,104.0,107.7,5.5,,,116,98,95.0,5.0,,,103,85
+2015 Wimbledon R32,L vs Wozniacki,100.4,103.3,5.1,,,112,88,94.1,5.8,,,104,82
+2015 Roland Garros R64,L vs Muguruza,99.6,102.8,5.0,,,115,89,92.6,5.8,,,100,81
+2015 Roland Garros R128,W vs Maria,100.0,102.6,5.8,,,113,87,95.1,4.9,,,104,86
+2015 Australian Open R32,L vs Williams,101.5,104.9,3.5,,,112,98,96.2,4.8,,,103,78
+2015 Australian Open R64,W vs Smitkova,103.7,108.4,6.5,,,126,97,97.8,3.8,,,105,93
+2015 Australian Open R128,W vs Pennetta,100.0,102.7,5.5,,,114,84,94.3,4.7,,,105,85
+2014 Roland Garros R64,L vs Kuznetsova,98.4,101.3,6.4,,,112,89,92.7,5.9,,,102,81
+2014 Australian Open R64,L vs Cornet,96.8,,,,,117,,,,,,,78
+Career (27 matches),,100.3,105.0,5.6,108.6,104.5,126,82,94.5,5.1,96.3,94.8,113,62
